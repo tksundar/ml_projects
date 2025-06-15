@@ -8,11 +8,11 @@ Predict the employee turnover based on various features in the given dataset. Us
 
 #### _Cohorts of Songs_
 
-Using the spotify dataset with no target label, use K means Clustering and Prinicipal Component Analysts to create cohorts of songs
+Using the spotify dataset with no target label, use K means Clustering and Principal Component Analysts to create cohorts of songs
 
 #### _Lending Club_
 
-Using ANN , predict the defaulters who have availed loans and compare perfromance with tradintional ML models like Random Forest Classifier
+Using ANN , predict the defaulters who have availed loans and compare performance with traditional ML models like Random Forest Classifier
 
 ####  _Housing Loan data Analysis_
 For a safe and secure lending experience, it's important to analyze the past data. In this project, we build a deep learning model to predict the chance of default for future loans using historical data. As we will see, this dataset is highly imbalanced and includes a lot of features that make this problem more challenging.
@@ -20,17 +20,17 @@ For a safe and secure lending experience, it's important to analyze the past dat
 #### _Automatic Port operations( capstone project)_
 **Objectives**
 
-*  Identify different classes of boats using a Covolutional Neural Network model
+*  Identify different classes of boats using a Convolutional Neural Network model
 *  Identify different classes of boats using the MobileNet_V2 model using transfer learning
-*   Compare the performanaces of both and draw inferences
+*   Compare the performance of the performances  of both and draw inferences
 
 #### _Historical Structure identification and Recommender system(capstone project)_
 
-In part 1, Using CNN and Transher learning , identify the various hostorical strucrtures. In part 2, using the rating data  and cosine similarity, device a recommender system that can recommend places to visit to a prospective tourist
+In part 1, Using CNN and Transfer learning , identify the various historical structures. In part 2, using the rating data  and cosine similarity, device a recommender system that can recommend places to visit to a prospective tourist
 
-#### _Autonomous Drivin(capstone project)_
+#### _Autonomous Driving(capstone project)_
 
-In part 1, train a YOLO model with custom vehecle data and use the trained model to detect vehecle objects by drawing appropriate labeled bounding boxes. In part 2, analyse the various causes for accidents in Tesla self driving cars
+In part 1, train a YOLO model with custom vehecle data and use the trained model to detect vehicle objects by drawing appropriate labeled bounding boxes. In part 2, analyse the various causes for accidents in Tesla self driving cars
 
 **Certificates**
 
