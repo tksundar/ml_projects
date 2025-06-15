@@ -1,5 +1,8 @@
 ## Introduction
-This repo consists of a number of machine learning and deep learning projects I did while completing the CALTECH AI and ML course offered by Simplilearn. Some notebooks are very big and may not open in GitHub. For such notebooks , i have also included a pdf file that has the source code. Some of the data is on my google drive . Please send a message here if you want access to the data.The data is also available on public domain
+This repo consists of a number of machine learning and deep learning projects( as .ipynb files) I did while completing the Caltech AI and 
+Machine Learning course. Some notebooks are huge and may not open in GitHub. For such notebooks , i have also included a 
+pdf file that has the source code. Some data is on my google drive . Please send a message here if you want access to the 
+data.The data is also available on public domain such as kaggle, github etc
 ### Projects
 
 #### _Employee Turnover_
