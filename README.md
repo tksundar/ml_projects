@@ -19,7 +19,7 @@ Using ANN , predict the defaulters who have availed loans and compare performanc
 ####  _Housing Loan data Analysis_
 For a safe and secure lending experience, it's important to analyze the past data. In this project, we build a deep learning model to predict the chance of default for future loans using historical data. As we will see, this dataset is highly imbalanced and includes a lot of features that make this problem more challenging.
 
-#### _Automatic Port operations( capstone project)_
+#### _Automatic Port operations_
 **Objectives**
 
 *  Identify different classes of boats using a Convolutional Neural Network model
@@ -32,7 +32,11 @@ In part 1, Using CNN and Transfer learning , identify the various historical str
 
 #### _Autonomous Driving(capstone project)_
 
-In part 1, train a YOLO model with custom vehecle data and use the trained model to detect vehicle objects by drawing appropriate labeled bounding boxes. In part 2, analyse the various causes for accidents in Tesla self driving cars
+In part 1, train a YOLO model with custom vehicle data and use the trained model to detect vehicle objects by drawing appropriate labeled bounding boxes. In part 2, analyse the various causes for accidents in Tesla self driving cars
+
+
+#### _Sales Forecasting(capstone project)_
+Using provided restaurants menu and sales data, forcast the sales numbers using Logistic, Random Forest and XGBoost regressors
 
 **Certificates**
 
